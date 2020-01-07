@@ -1,0 +1,14 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+.giocatori{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 50px;
+}
+.gioca{
+  text-align: center;
+  margin-top: 100px;
+}
